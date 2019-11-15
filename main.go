@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mtbdeano/sliding-windows/internal/binheap"
+	"github.com/mtbdeano/sliding-windows/binheap"
 	log "github.com/sirupsen/logrus"
 )
 
